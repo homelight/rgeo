@@ -44,7 +44,7 @@ else
 
   header_dirs_ =
     [
-     '/app/bin/geos/include',
+     'bin/geos/include',
      '/usr/local/include',
      '/usr/local/geos/include',
      '/opt/local/include',
@@ -56,7 +56,7 @@ else
     ]
   lib_dirs_ =
     [
-     '/app/bin/geos/lib',
+     'bin/geos/lib',
      '/usr/local/lib64',
      '/usr/local/lib',
      '/usr/local/geos/lib',
