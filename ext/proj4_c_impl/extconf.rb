@@ -44,7 +44,7 @@ else
 
   header_dirs_ =
     [
-     'bin/proj/include',
+     '/app/bin/proj/include',
      '/usr/local/include',
      '/usr/local/proj/include',
      '/usr/local/proj4/include',
@@ -58,7 +58,7 @@ else
     ]
   lib_dirs_ =
     [
-     'bin/proj/lib',
+     '/app/bin/proj/lib',
      '/usr/local/lib',
      '/usr/local/lib64',
      '/usr/local/proj/lib',
